@@ -30,7 +30,7 @@ public class StudentController {
 	
 	
 	@PostMapping("/addStudent")
-	public ResponseEntity<Student> postStudent(@RequestBody Student student){
+	public ResponseEntity<Student> postStudent(@Valid @RequestBody Student student){
 		System.out.println(student);
 	Student student2 =studentService.addStudent(student);
 	
@@ -41,7 +41,7 @@ public class StudentController {
 	
 	
 	@PutMapping("/updateStudent/{studentId}")
-	public ResponseEntity<Student> updateStudentData(@RequestBody Student student,@PathVariable Integer studentId ){
+	public ResponseEntity<Student> updateStudentData(@Valid @RequestBody Student student,@PathVariable Integer studentId ){
 		
 		Student student2=studentService.updateStudent(student, studentId);
 		
