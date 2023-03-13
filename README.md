@@ -1,5 +1,6 @@
 # Student Managment System
 
+## How to create Student Managment System api;
 Define the data model: Define the Java class that represents a student object, including the fields such as name, email, age, etc. You can use annotations such as @Entity and @Id to map the Java class to a database table.
 
 Set up the database: Choose a database management system (such as MySQL or PostgreSQL) and create a database table that corresponds to the student data model.
