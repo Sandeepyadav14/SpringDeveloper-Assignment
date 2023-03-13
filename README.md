@@ -13,6 +13,9 @@
 
 #### These are the general steps to create a CRUD API for a student management system using Java. However, the specific implementation details will depend on the requirements of your project and the frameworks and technologies you choose to use.
 
+#Run the this api on your local Computer(Laptop)
+
+###http://localhost:5000/{enter endpoints}
 
 
 
