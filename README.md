@@ -15,7 +15,7 @@
 
 # Run the this api on your local Computer(Laptop)
 
-### http://localhost:5000/{enter endpoints}
+### http://localhost:5000
 
 
 
