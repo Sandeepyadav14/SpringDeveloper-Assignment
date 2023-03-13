@@ -9,7 +9,7 @@
 
 #### Implement the CRUD operations: Implement the code for the API endpoints to perform the CRUD operations on the database. I use an ORM framework such as Hibernate to map the Java objects to the database table and perform the database operations.
 
-#### Test the API: I Test the API endpoints using tools such as Postman .
+#### Test the API: I use the postman for test the api endpoints.
 
 #### These are the general steps to create a CRUD API for a student management system using Java. However, the specific implementation details will depend on the requirements of your project and the frameworks and technologies you choose to use.
 
