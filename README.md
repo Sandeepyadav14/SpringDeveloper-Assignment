@@ -17,6 +17,11 @@
 
 ## https://springdeveloper-assignment-production.up.railway.app/
 
+#### This is the all the endpoints you can use:-
+
+### Add Student:- https://springdeveloper-assignment-production.up.railway.app/addStudent
+
+
 
 
 
