@@ -13,9 +13,9 @@
 
 #### These are the general steps to create a CRUD API for a student management system using Java. However, the specific implementation details will depend on the requirements of your project and the frameworks and technologies you choose to use.
 
-# Run  this api on your local Computer(Laptop)
+# This application runnig on the railway cloud server for testing you can use below cloud server link:-
 
-### http://localhost:5000
+# https://springdeveloper-assignment-production.up.railway.app/
 
 
 
