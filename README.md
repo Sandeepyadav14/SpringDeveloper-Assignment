@@ -14,12 +14,13 @@
 #### These are the general steps to create a CRUD API for a student management system using Java. However, the specific implementation details will depend on the requirements of your project and the frameworks and technologies you choose to use.
 
 ### This application runnig on the railway cloud server for testing you can use below cloud server link:-
-
-## https://springdeveloper-assignment-production.up.railway.app/
-
 #### This is the all the endpoints you can use:-
 
 ### Add Student:- https://springdeveloper-assignment-production.up.railway.app/addStudent
+### GetAllStudent:- https://springdeveloper-assignment-production.up.railway.app/getAllStudent
+### GetOneStudent:- https://springdeveloper-assignment-production.up.railway.app/getOneStudent/{studentId}
+### UpdateStudentDetails:- https://springdeveloper-assignment-production.up.railway.app/updateStudent/{studentId}
+### DeleteStudentById:- https://springdeveloper-assignment-production.up.railway.app/deleteStudent/{studentId}
 
 
 
